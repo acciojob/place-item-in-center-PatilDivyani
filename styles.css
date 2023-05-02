@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.item-1{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	align-self: center;
+	border: 2px solid rgb(0,0,0);
+}
